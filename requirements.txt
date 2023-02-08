@@ -6,3 +6,5 @@ torch==1.10.2
 torchvision==0.2.1
 tqdm==4.62.3
 transformers==4.15.0
+allennlp==2.1.0
+allennlp_models=2.1.0
